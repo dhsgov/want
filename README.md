@@ -17,6 +17,5 @@ To run, point your browser to ```http(s)://[host]/want```.
 
 License
 ----
-
 DHS open source
 

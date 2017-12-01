@@ -13,7 +13,7 @@ To run, point your browser to ```http(s)://[host]/networktest```.
 
 ## Usage
 
-![Network-tester](war/images/network-tester.png)
+![Network-tester](war/images/screenshot.png)
 
 License
 ----
